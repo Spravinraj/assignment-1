@@ -1,4 +1,5 @@
-YouTube Data Harvesting and Warehousing
+**YOUTUBE DATA HARVESTING AND WAREHOUSING **
+
 This Project is based on Youtube Data Harvesting.Collecting a youtube datas using channel ids and collect &store the datas of youtube channels. In this project the users we can easily able to get the information about the youtube channels through channel id. We are analyse the data of the channel using MONGODB and SQL and STREAMLIT are used in this project to make the user so friendly to collect the datas about the youtube channels and the user can retrive ,save and query the youtube channel and video datas.
 
 TOOLS USED IN PROJECT :
